@@ -1,0 +1,13 @@
+.section-follow .fa-4x{
+    margin:5px 10px;
+}
+.section-quality{
+    position: relative;
+    background: url(../assets/images/blanco.jpg);
+    background-size: cover;
+    background-position: center;
+    border-top: black solid 4px;
+    border-bottom:  black solid 4px;
+    min-height: 40px;
+
+}
